@@ -12,12 +12,12 @@ Este repositorio contiene una aplicación de propósito general construida usand
 
 Para comenzar, clona el repositorio y utiliza el CLI de AWS SAM para desplegar la aplicación en tu cuenta de AWS.
 
-1 .git clone https://github.com/wilmarcabezas/aws-serverless-dynamodb-general.git
-2. cd aws-serverless-dynamodb-general
-3. serverless init
+1. git clone https://github.com/wilmarcabezas/aws-serverless-dynamodb-general.git
+2.  cd aws-serverless-dynamodb-general
+3.  serverless init
 
 
-También puedes utilizar el AWS Console para desplegar la aplicación cargando el archivo `template.yaml`.
+También puedes utilizar el AWS Console para desplegar la aplicación cargando el archivo `serverless.yml`.
 
 ## Documentación
 
@@ -25,4 +25,6 @@ También puedes utilizar el AWS Console para desplegar la aplicación cargando e
 - [AWS DynamoDB](https://aws.amazon.com/es/dynamodb/) 🗄️
 - [AWS Lambda](https://aws.amazon.com/es/lambda/) 🔥
 - [Node.js](https://nodejs.org/es/) 💻
+- [Framework Serverless](https://www.serverless.com/)☁️
+
 
